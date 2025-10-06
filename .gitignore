@@ -1,2 +1,17 @@
 .env
 env
+
+#Python generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+
+#Virtual envs
+.venv
+.langgraph_api/
+*.env
+
+
