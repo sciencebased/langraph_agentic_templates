@@ -17,6 +17,7 @@ dependencies = [
 dev = [
     "grandalf>=0.8",
     "ipykernel>=6.30.1",
+    "jinja2>=3.1.6",
     "langgraph-cli>=0.4.2",
 ]
 [tool.setuptools.packages.find]
