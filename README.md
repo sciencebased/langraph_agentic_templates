@@ -23,3 +23,7 @@ Jupyter notebook (ipykernel)
 # Run with uv
 
 uv run langgraph dev
+
+# Refresh changes in directories
+
+uv pip install -e .

@@ -17,3 +17,6 @@ dev = [
     "ipykernel>=6.30.1",
     "langgraph-cli>=0.4.2",
 ]
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["*"]
