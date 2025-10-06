@@ -5,7 +5,8 @@
         "simple": "./src/agents/simple.py:agent",
         "history": "./src/agents/history.py:agent",
         "multiagent": "./src/agents/multiagent.py:agent",
-        "rag-pdf": "./src/agents/rag-pdf.py:agent"    
+        "rag-pdf": "./src/agents/rag-pdf.py:agent",
+        "chaining_rag_pfg": "./src/agents/chaining_rag_pdf.py:agent"
     },
     "env": ".env"
 }
