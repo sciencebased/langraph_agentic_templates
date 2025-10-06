@@ -14,4 +14,12 @@ We use for 10-100x than pip (improving production version)
 https://docs.astral.sh/uv/
 
 uv init
+uv add requirements.txt (may include --dev)
 
+# Laboratory environtment
+
+Jupyter notebook (ipykernel)
+
+# Run with uv
+
+uv run langgraph dev
