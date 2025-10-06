@@ -5,3 +5,4 @@ langchain[anthropic]
 langgraph-cli
 langgraph-cli[inmem]
 ipykernel # For Jupyter notebook support
+grandalf
