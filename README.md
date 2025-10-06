@@ -27,3 +27,6 @@ uv run langgraph dev
 # Refresh changes in directories
 
 uv pip install -e .
+
+# Rules for production
+
