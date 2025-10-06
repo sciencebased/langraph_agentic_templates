@@ -6,7 +6,8 @@
         "history": "./src/agents/history.py:agent",
         "multiagent": "./src/agents/multiagent.py:agent",
         "rag-pdf": "./src/agents/rag-pdf.py:agent",
-        "chaining_rag_pfg": "./src/agents/chaining_rag_pdf.py:agent"
+        "chaining_rag_pdf": "./src/agents/chaining_rag_pdf.py:agent",
+        "rag_output_parser": "./src/agents/rag_output_parser.py:agent"
     },
     "env": ".env"
 }
