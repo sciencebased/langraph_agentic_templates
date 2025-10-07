@@ -1,10 +1,9 @@
 langgraph
 langchain
 langchain-openai
-langchain[anthropic]
-langchain-antropic
 langgraph-cli
-langgraph-cli[inmem]
 ipykernel # For Jupyter notebook support
 grandalf
 Jinja2
+paperscraper
+pandas
