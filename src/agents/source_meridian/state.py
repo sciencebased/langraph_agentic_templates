@@ -6,5 +6,6 @@ class State(MessagesState):
     customer_name: str
     my_age: int
     pubmed_data: List[Dict[str, Any]] = None
+    pubmed_query: str = "cancer"
     csv_path: str = "data/raw/pubmed_raw.csv"
     csv_out_path: str = "data/processed/pubmed_processed.csv"

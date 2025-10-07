@@ -11,7 +11,8 @@
         "rag_with_react": "./src/agents/react_rag/agent.py:agent",
         "rag_productive": "./src/agents/support/agent.py:agent",
         "individual_rag_react": "./src/agents/support/nodes/relevant_questions/agent.py:agent",
-        "source_meridian": "./src/agents/source_meridian/agent.py:agent"
+        "source_meridian": "./src/agents/source_meridian/agent.py:agent",
+        "support": "./src/agents/support/agent.py:agent"
     },
     "env": ".env"
 }
