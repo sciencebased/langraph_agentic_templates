@@ -28,5 +28,10 @@ uv run langgraph dev
 
 uv pip install -e .
 
+
+# FastAPI
+
+uv run fastapi dev ./src/api/main.py
+
 # Rules for production
 
