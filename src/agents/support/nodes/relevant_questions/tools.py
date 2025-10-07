@@ -14,6 +14,6 @@ def get_products(store: str):
 @tool("get_weather", description="Get the current weather for a given city")
 def get_weather(city: str):
     print("City", city)
-    return [{"city": "New York", "temperature": 75, "condition": "Sunny"},]
+    return [{"city": "Medellin", "temperature": 75, "condition": "Sunny"},]
 
 tools = [get_products, get_weather] # For each tool
